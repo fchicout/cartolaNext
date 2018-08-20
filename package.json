@@ -1,0 +1,16 @@
+{
+  "name": "cartola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "distfitjs": "0.0.1",
+    "simple-statistics": "^6.0.1",
+    "sqlite-sync": "^0.3.8"
+  }
+}
