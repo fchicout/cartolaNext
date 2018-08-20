@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Specific VSCode Launch Configuration
+.vscode/launch.json
+.vscode/settings.json
