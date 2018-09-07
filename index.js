@@ -34,7 +34,7 @@ var tacticItems = {
 };
 
 //Connecting
-sqlite.connect("cartola_data_r17.db");
+sqlite.connect("cartola.db");
 recommendedPlayersForTeam("Corinthians", 3);
 
 function evaluateWinnerTactics() {
